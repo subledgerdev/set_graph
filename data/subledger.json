@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/subledgerdev/set_graph/blob/main/data/subledger.csv",
+	"file": "https://raw.githubusercontent.com/subledgerdev/set_graph/main/data/subledger.csv",
 	"name": "Subledger ",
 	"header": 0,
 	"separator": ";",
