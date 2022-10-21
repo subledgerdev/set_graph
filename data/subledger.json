@@ -1,0 +1,13 @@
+{
+	"file": "https://drive.google.com/file/d/1rfWMdGzL-k7anheZ0smiXUWIrtZ-qjEL/view?usp=sharing",
+	"name": "Subledger ",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
